@@ -1,0 +1,136 @@
+Privacy Policy
+
+Last Updated: July 23rd, 2026
+
+Nogitsune Development ("we," "us," or "our") operates the Google Drive for Xbox application
+(the "App"). This Privacy Policy explains how information is handled when you use the App.
+
+By using the App, you agree to the practices described in this Privacy Policy.
+
+
+Information We Collect
+
+Google Drive for Xbox does not collect, store, or transmit personal information to Nogitsune
+Development servers.
+
+The App uses Google's OAuth authentication system to allow you to securely authorize access to
+your Google Drive account. During this process, Google may provide the App with authorization
+information required to access your account.
+
+The App only requests the permissions necessary to provide its file browsing functionality.
+
+
+Google Account and Google Drive Access
+
+Google Drive for Xbox connects directly to your Google Drive account using Google's OAuth
+authentication and Google Drive API.
+
+Your Google account credentials are never visible to or stored by Nogitsune Development.
+
+OAuth access tokens required for authentication are stored locally on your Xbox device and are
+not transmitted to or stored by Nogitsune Development.
+
+The App uses Google Drive access solely to provide the functionality requested by you,
+including browsing and accessing files stored in your Google Drive account.
+
+We do not:
+•   Store your Google Drive files.
+•   Store your Google Drive file metadata.
+•   Store your OAuth tokens.
+•   Access your Google Drive content for purposes unrelated to providing App functionality.
+•   Sell, share, or use Google user data for advertising or marketing purposes.
+•   Transfer Google user data to our own cloud infrastructure.
+
+You may revoke the App's access to your Google Account at any time through your Google
+Account security settings.
+
+
+Google API Services User Data Policy
+
+Nogitsune Development's use and transfer of information received from Google APIs complies
+with the Google API Services User Data Policy, including the Limited Use requirements.
+
+Information obtained through Google APIs is used only to provide or improve the functionality
+of Google Drive for Xbox as requested by the user.
+
+
+Data Storage
+
+Google Drive for Xbox does not operate any servers that store user data.
+
+Any authentication information required for the operation of the App is stored locally on your
+Xbox device.
+
+Nogitsune Development does not maintain databases containing user information, Google Drive
+content, authentication credentials, or usage history.
+
+
+Third-Party Services
+
+The App relies on third-party services, including:
+•   Google OAuth
+•   Google Drive API
+•   Microsoft Xbox platform services
+
+These services are operated independently by their respective providers. Your use of these
+services is subject to their own privacy policies and terms of service.
+
+Nogitsune Development does not control how third-party providers collect, use, or process
+information outside of the App.
+
+
+Children's Privacy
+
+Google Drive for Xbox does not knowingly collect personal information from children.
+
+Because the App does not collect or store personal information, we do not maintain personal data
+about users of any age.
+
+If you believe that personal information has been provided to us unintentionally, please contact
+us so that we can address the concern.
+
+
+Security
+
+We take reasonable measures to protect the App and ensure that authentication information is
+handled securely.
+
+However, no method of electronic storage or transmission is completely secure, and we cannot
+guarantee absolute security.
+
+
+Changes to This Privacy Policy
+
+Nogitsune Development may update this Privacy Policy from time to time.
+
+If changes are made, the updated Privacy Policy will be posted with a revised "Last Updated"
+date. Where appropriate, additional notice may be provided through the App or other available
+communication methods.
+
+Your continued use of the App after changes become effective indicates acceptance of the
+updated Privacy Policy.
+
+
+Your Rights and Choices
+
+You may stop using the App at any time by uninstalling it from your Xbox device.
+
+You may revoke Google Drive access granted to the App through your Google Account security
+settings.
+
+Because Nogitsune Development does not collect or store personal information, there may be
+limited information available for access, correction, or deletion requests.
+
+
+Contact Us
+
+If you have questions about this Privacy Policy or the privacy practices of Google Drive for
+Xbox, you may contact us:
+Email: admin@nogitsune.dev
+
+
+Third-Party Trademarks
+Google Drive is a trademark of Google LLC.
+Xbox is a trademark of Microsoft Corporation.
+This application is independent and is not affiliated with, endorsed by, or sponsored by Microsoft
+Corporation or Google LLC.

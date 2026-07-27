@@ -1,0 +1,193 @@
+TERMS & CONDITIONS
+Updated at July 23rd, 2026
+
+
+General Terms
+
+By accessing Google Drive for Xbox, you confirm that you are in agreement with and bound by the terms of service contained in the Terms & Conditions outlined below. These terms apply to the entire application and any email or other type of communication between you and Nogitsune Development.
+
+Under no circumstances shall Nogitsune Development be liable for any direct, indirect, special, incidental or consequential damages, including, but not limited to, loss of data or profit, arising out of the use, or the inability to use, the materials of this application, even if the Company or an authorized representative has been advised of the possibility of such damages. If your use of materials from this application results in the need for servicing, repair or correction of equipment or data, you assume any costs thereof.
+
+Nogitsune Development is not responsible for any outcome resulting from your use of the App or the services it accesses.
+
+
+License
+
+Nogitsune Development grants you a revocable, non-exclusive, non-transferable, limited license to download, install and use the app strictly in accordance with the terms of this Agreement.
+
+These Terms & Conditions are a contract between you and Nogitsune Development (referred to in these Terms & Conditions as "Nogitsune Development", "us", "we" or "our"), the provider of the Google Drive for Xbox app and the services accessible from the Google Drive for Xbox app (which are collectively referred to in these Terms & Conditions as the "Google Drive for Xbox App" or just “Google Drive for Xbox”).
+
+You are agreeing to be bound by these Terms & Conditions. If you do not agree to these Terms & Conditions, please do not use the Google Drive for Xbox App. In these Terms & Conditions, "you" refers both to you as an individual and to the entity you represent. If you violate any of these Terms & Conditions, we reserve the right to discontinue the App, discontinue support for the App, remove it from distribution, or deny future updates where permitted by the platform.
+
+
+Definitions and key terms
+
+To help explain things as clearly as possible in these Terms & Conditions, every time any of these terms are referenced, are strictly defined as:
+
+•	Company: when these terms mention “Company,” “we,” “us,” or “our,” it refers to Nogitsune Development, responsible for operating the App and handling information as described in these Terms and the Privacy Policy.
+•	Country: Country means the United States, where Nogitsune Development is located.
+•	Device: any internet connected device such as a phone, tablet, computer or any other device that can be used to access the Google Drive for Xbox app.
+•	Third-Party Service: Services provided by third parties that the App relies upon, including Google Drive, Google OAuth, the Google Drive API, Microsoft Xbox services, and other supporting platform services.
+•	App/Application: Google Drive for Xbox app, refers to the SOFTWARE PRODUCT identified above. This may also be considered interchangeable with “Service” and “Services” when used in reference to the terms described in this agreement.
+•	Service: refers directly to the Google Drive for Xbox App and all functionality provided by such app
+•	You: the individual or legal entity using the App.
+
+
+Governing Law
+
+These Terms & Conditions are governed by the laws of the State of Washington, United States, without regard to its conflict of law principles.
+
+
+Restrictions
+
+You agree not to, and you will not permit others to:
+
+•	License, sell, rent, lease, assign, distribute, transmit, host, outsource, disclose or otherwise commercially exploit the app or make the platform available to any third party.
+•	Modify, make derivative works of, disassemble, decrypt, reverse compile or reverse engineer any part of the app.
+•	Remove, alter or obscure any proprietary notice (including any notice of copyright or trademark) of Nogitsune Development or its affiliates, partners, suppliers or the licensors of the app.
+
+
+Return and Refund Policy
+
+Refunds are governed by the policies of the Microsoft Store from which you obtained the App.
+
+
+Your Suggestions
+
+Any feedback, comments, ideas, improvements or suggestions (collectively, "Suggestions") provided by you to Nogitsune Development with respect to the app shall remain the sole and exclusive property of Nogitsune Development.
+
+Nogitsune Development shall be free to use, copy, modify, publish, or redistribute the Suggestions for any purpose and in any way without any credit or any compensation to you.
+
+
+Your Consent
+
+By using our app, you hereby consent to our Terms & Conditions.
+
+
+Links to Other Websites
+
+These Terms & Conditions apply only to the App. The App may contain links to other websites not operated or controlled by Nogitsune Development. We are not responsible for the content, accuracy or opinions expressed in such websites, and such websites are not investigated, monitored or checked for accuracy or completeness by us. Please remember that when you use a link to go from the App to another website, our Terms & Conditions are no longer in effect. Your browsing and interaction on any other website, including those that have a link on our platform, is subject to that website’s own rules and policies. Such third parties may use their own cookies or other methods to collect information about you.
+
+
+Google Services
+
+Google Drive for Xbox connects directly to your Google Drive using Google's OAuth authentication and Google Drive API. Your Google account credentials are never visible to or stored by us. OAuth access tokens required for authentication are stored only on your Xbox device and are never transmitted to or stored by Nogitsune Development. We do not sell, share, or use Google user data for advertising or marketing. Google user data is not transferred to our own cloud infrastructure. Google user data is used solely to provide the functionality of the App requested by you and for no other purpose.
+
+Access to your Google Drive is granted only after your authorization through Google. The App requests read-only access to your Google Drive. The App accesses your Google Drive only to provide browsing and file access functionality requested by you. You may revoke the application's access at any time through your Google Account security settings.
+
+Nogitsune Development's use and transfer of information received from Google APIs complies with the Google API Services User Data Policy, including the Limited Use requirements.
+
+We do not store your Google Drive files, metadata, OAuth tokens, or personal information on our own servers.
+
+
+Changes To Our Terms & Conditions
+
+You acknowledge and agree that Nogitsune Development may stop (permanently or temporarily) providing the App (or any features within the App) to you or to users generally at Nogitsune Development’s sole discretion, without prior notice to you. You may stop using the App at any time. You do not need to specifically inform Nogitsune Development when you stop using the App. You acknowledge and agree that if Nogitsune Development disables your access to the App, you will have limited or no access to features provided to other users.
+
+If we decide to change our Terms & Conditions, we will post those changes on this page, and/or update the Terms & Conditions modification date below.
+
+
+Modifications to Our app
+
+Nogitsune Development reserves the right to modify, suspend or discontinue, temporarily or permanently, the app or any service to which it connects, with or without notice and without liability to you.
+
+
+Updates to Our app
+
+Nogitsune Development may from time to time provide enhancements or improvements to the features/ functionality of the app, which may include patches, bug fixes, updates, upgrades and other modifications ("Updates").
+
+Updates may modify or delete certain features and/or functionalities of the app. You agree that Nogitsune Development has no obligation to (i) provide any Updates, or (ii) continue to provide or enable any particular features and/or functionalities of the app to you.
+
+You further agree that all Updates will be (i) deemed to constitute an integral part of the app, and (ii) subject to the terms and conditions of this Agreement.
+
+
+Third-Party Services
+
+Google Drive for Xbox relies on third-party services, including Google Drive, Google OAuth, the Google Drive API, and the Microsoft Xbox platform.
+We do not control these services and are not responsible for their availability, functionality, security, or any changes made by their respective providers. Your use of these services is also subject to the terms and privacy policies of those providers.
+
+
+Term and Termination
+
+This Agreement shall remain in effect until terminated by you or Nogitsune Development.
+
+Nogitsune Development may, in its sole discretion, at any time and for any or no reason, suspend or terminate this Agreement with or without prior notice.
+
+This Agreement will terminate immediately, without prior notice from Nogitsune Development, in the event that you fail to comply with any provision of this Agreement. You may also terminate this Agreement by deleting the app and all copies thereof from your device.
+
+Upon termination of this Agreement, you shall cease all use of the app and delete all copies of the app from your device.
+
+Termination of this Agreement will not limit any of Nogitsune Development's rights or remedies at law or in equity in case of breach by you (during the term of this Agreement) of any of your obligations under the present Agreement.
+
+
+Indemnification
+
+You agree to indemnify and hold Nogitsune Development and its parents, subsidiaries, affiliates, officers, employees, agents, partners and licensors (if any) harmless from any claim or demand, including reasonable attorneys' fees, due to or arising out of your: (a) use of the app; (b) violation of this Agreement or any law or regulation; or (c) violation of any right of a third party.
+
+
+No Warranties
+
+The app is provided to you "AS IS" and "AS AVAILABLE" and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, Nogitsune Development, on its own behalf and on behalf of its affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the app, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, Nogitsune Development provides no warranty or undertaking, and makes no representation of any kind that the app will meet your requirements, achieve any intended results, be compatible or work with any other software, apps, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.
+
+Without limiting the foregoing, neither Nogitsune Development nor any of Google Drive for Xbox’s providers make any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the app, or the information, content, and materials or products included thereon; (ii) that the app will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or content provided through the app; or (iv) that the app, its servers, the content, or e-mails sent from or on behalf of Nogitsune Development are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.
+
+Some jurisdictions do not allow the exclusion of or limitations on implied warranties or the limitations on the applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to you.
+
+
+Limitation of Liability
+
+Notwithstanding any damages that you might incur, the entire liability of Nogitsune Development and any of its suppliers under any provision of this Agreement and your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by you for the app.
+
+To the maximum extent permitted by applicable law, in no event shall Nogitsune Development or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, for loss of data or other information, for business interruption, for personal injury, for loss of privacy arising out of or in any way related to the use of or inability to use the app, third-party software and/or third-party hardware used with the app, or otherwise in connection with any provision of this Agreement), even if Nogitsune Development or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.
+
+Some states/jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may not apply to you.
+
+
+Waiver
+
+Except as provided herein, the failure to exercise a right or to require performance of an obligation under this Agreement shall not affect a party's ability to exercise such right or require such performance at any time thereafter nor shall be the waiver of a breach constitute waiver of any subsequent breach.
+
+No failure to exercise, and no delay in exercising, on the part of either party, any right or any power under this Agreement shall operate as a waiver of that right or power. Nor shall any single or partial exercise of any right or power under this Agreement preclude further exercise of that or any other right granted herein.
+
+
+Amendments to this Agreement
+
+Nogitsune Development reserves the right, at its sole discretion, to modify or replace this Agreement at any time. If a revision is material we will provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+
+By continuing to access or use our app after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you are no longer authorized to use Google Drive for Xbox.
+
+
+Entire Agreement
+
+The Agreement constitutes the entire agreement between you and Nogitsune Development regarding your use of the app and supersedes all prior and contemporaneous written or oral agreements between you and Nogitsune Development.
+
+
+Intellectual Property
+
+The app and its entire contents, features and functionality (including but not limited to all information, software, text, displays, images, video and audio, and the design, selection and arrangement thereof), are owned by Nogitsune Development, its licensors or other providers of such material and are protected by United States and international copyright, trademark, patent, trade secret and other intellectual property or proprietary rights laws. The material may not be copied, modified, reproduced, downloaded or distributed in any way, in whole or in part, without the express prior written permission of Nogitsune Development, unless and except as is expressly provided in these Terms & Conditions. Any unauthorized use of the material is prohibited.
+
+User content accessed through Google Drive remains the property of its respective owners and is not claimed by Nogitsune Development.
+
+
+Miscellaneous
+
+If for any reason a court of competent jurisdiction finds any provision or portion of these Terms & Conditions to be unenforceable, the remainder of these Terms & Conditions will continue in full force and effect. Any waiver of any provision of these Terms & Conditions will be effective only if in writing and signed by an authorized representative of Nogitsune Development. Nogitsune Development will be entitled to injunctive or other equitable relief (without the obligations of posting any bond or surety) in the event of any breach or anticipatory breach by you. Nogitsune Development operates and controls the Google Drive for Xbox App from its offices in United States. The App is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation. Accordingly, those persons who choose to access the Google Drive for Xbox App from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable. These Terms & Conditions (which include and incorporate the Google Drive for Xbox Privacy Policy) contain the entire understanding, and supersedes all prior understandings, between you and Nogitsune Development concerning its subject matter, and cannot be changed or modified by you. The section headings used in this Agreement are for convenience only and will not be given any legal import.
+
+
+Disclaimer
+
+Nogitsune Development is not responsible for any content, code or any other imprecision.
+Nogitsune Development does not provide warranties or guarantees.
+All files remain hosted by Google and are subject to Google's Terms of Service and policies.
+In no event shall Nogitsune Development be liable for any special, direct, indirect, consequential, or incidental damages or any damages whatsoever, whether in an action of contract, negligence or other tort, arising out of or in connection with the use of the App or the contents of the App. The Company reserves the right to make additions, deletions, or modifications to the contents on the App at any time without prior notice.
+
+The Google Drive for Xbox App and its contents are provided "as is" and "as available" without any warranty or representations of any kind, whether express or implied. Google Drive for Xbox displays files stored in your Google Drive account. We do not review, edit, or control user content stored on Google Drive; as such, Nogitsune Development exercises no editorial control over such content and makes no warranty or representation as to the accuracy, reliability or currency of any information, content, service or merchandise provided through or accessible via the Google Drive for Xbox App. Without limiting the foregoing, Nogitsune Development specifically disclaims all warranties and representations in any content transmitted on or in connection with the Google Drive for Xbox App or on sites that may appear as links on the Google Drive for Xbox App, or in the products provided as a part of, or otherwise in connection with, the Google Drive for Xbox App, including without limitation any warranties of merchantability, fitness for a particular purpose or non-infringement of third party rights. No oral advice or written information given by Nogitsune Development or any of its affiliates, employees, officers, directors, agents, or the like will create a warranty. Without limiting the foregoing, Nogitsune Development does not warrant that the Google Drive for Xbox App will be uninterrupted, uncorrupted, timely, or error-free.
+
+Xbox is a trademark of Microsoft Corporation.
+Google Drive is a trademark of Google LLC.
+This application is independent and is not affiliated with, endorsed by, or sponsored by Microsoft Corporation or Google LLC.
+
+
+Contact Us
+
+Don't hesitate to contact us if you have any questions via email: admin@nogitsune.dev

@@ -8,7 +8,9 @@ export interface AppAssets {
     descriptionExt: string;
     appIconPath: string;
     appPrivacyPolicyPath: string;
+    appPrivacyPolicyTextPath: string;
     appTermsOfUsePath: string;
+    appTermsOfUseTextPath: string;
     appVersion: string;
     platform: string;
 }
@@ -31,6 +33,8 @@ const assetConfig: AppAssetsConfig = {
         appIconPath: '/assets/images/gd4xbox/gd4xbox_notext.png',
         appPrivacyPolicyPath: '/assets/documents/gd4xbox/privacy_policy.pdf',
         appTermsOfUsePath: '/assets/documents/gd4xbox/terms_of_use.pdf',
+        appPrivacyPolicyTextPath: '/assets/documents/gd4xbox/privacy_policy.txt',
+        appTermsOfUseTextPath: '/assets/documents/gd4xbox/terms_of_use.txt',
         appVersion: '1.0.0.0',
         platform: 'Xbox'
     }

@@ -59,6 +59,9 @@ export const App: React.FC = () => {
                         <Button variant='text'>
                             <a style={ { color: theme.palette.text.primary } } href={config.appPrivacyPolicyPath}>View</a>
                         </Button>
+                        <Button variant='text' sx={ { ml: 2 } }>
+                            <a style={ { color: theme.palette.text.primary } } href={config.appPrivacyPolicyTextPath}>View (plain text)</a>
+                        </Button>
                     </Box>
                 </ListItem>
                 <Divider />
@@ -67,6 +70,9 @@ export const App: React.FC = () => {
                     <Box alignItems='center' display='inline-flex' flex='1 1'>
                         <Button variant='text'>
                             <a style={ { color: theme.palette.text.primary } } href={config.appTermsOfUsePath}>View</a>
+                        </Button>
+                        <Button variant='text' sx={ { ml: 2 } }>
+                            <a style={ { color: theme.palette.text.primary } } href={config.appTermsOfUseTextPath}>View (plain text)</a>
                         </Button>
                     </Box>
                 </ListItem>
